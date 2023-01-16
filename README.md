@@ -11,6 +11,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Backend+Engineer;Informatics+Engineering+Student;Problem%20Solver;Always%20learning%20New%20Things&center=true&width=500&height=50"></a>
 </p>
 
+<p align='center'><em><b>Every time I try to sleep, suddenly an idea appears and disturbs my mind.</b></em>
+<br/>
+ <em><b>~ Leonardo Da Vinci</b></em>
+<br><br/>
+
 🔗 &nbsp;**Connect with me on**
 
 <p align="left">
@@ -47,11 +52,6 @@ My ambition is to learn all technology in IT field. I really like technology, es
 
 Come on, collaborate with me, for the project that I want to develop, the theme is "Education in Indonesia".
 
-<p align='center'><em><b>Every time I try to sleep, suddenly an idea appears and disturbs my mind.</b></em>
-<br/>
- <em><b>~ Leonardo Da Vinci</b></em>
-<br><br/>
-
 ## 🛠 **&nbsp;Language and Technology Stack:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
 
@@ -79,3 +79,5 @@ Come on, collaborate with me, for the project that I want to develop, the theme 
 <a href="https://github.com/yusnarsetiyadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusnarsetiyadi&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![YusnarS github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yusnarsetiyadi&theme=high-contrast&custom_title=Yusnar%20Setiyadi's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://github.com/setiyadi/yusnarsetiyadi/blob/output/github-contribution-grid-snake.svg)
