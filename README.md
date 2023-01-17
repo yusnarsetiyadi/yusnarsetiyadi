@@ -80,4 +80,4 @@ Come on, collaborate with me, for the project that I want to develop, the theme 
 
 [![YusnarS github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yusnarsetiyadi&theme=high-contrast&custom_title=Yusnar%20Setiyadi's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/yusnarsetiyadi/yusnarsetiyadi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yusnarsetiyadi/yusnarsetiyadi/blob/output/github-contribution-grid-snake.svg)
