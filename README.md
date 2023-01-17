@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Informatics+Engineering+Student;Problem%20Solver;Always%20learning%20New%20Things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Informatics+Engineering+Student;Problem%20Solver;Always%20learning%20New%20Things&center=true&width=500&height=50"></a>
 </p>
 
 <p align='center'><em><b>Every time I try to sleep, suddenly an idea appears and disturbs my mind.</b></em>
@@ -46,7 +46,7 @@
 <br />
 </h1>
 
-Hi, I'm [Yusnar Setiyadi](https://github.com/yusnarsetiyadi), a Backend Engineer who started his career with the Golang Programming Language. I pay a lot of attention to the Experience, Architecture, and Code Quality of the projects I develop.
+Hi, I'm [Yusnar Setiyadi](https://github.com/yusnarsetiyadi), a Backend Developer who started his career with the Golang Programming Language. I pay a lot of attention to the Experience, Architecture, and Code Quality of the projects I develop.
 
 My ambition is to learn all technology in IT field. I really like technology, especially with technology that never stops developing until now. I also enjoy starting a new project, and collaborating to achieve that goal.
 
