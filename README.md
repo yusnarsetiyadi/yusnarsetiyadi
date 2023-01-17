@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Backend+Engineer;Informatics+Engineering+Student;Problem%20Solver;Always%20learning%20New%20Things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Informatics+Engineering+Student;Problem%20Solver;Always%20learning%20New%20Things&center=true&width=500&height=50"></a>
 </p>
 
 <p align='center'><em><b>Every time I try to sleep, suddenly an idea appears and disturbs my mind.</b></em>
