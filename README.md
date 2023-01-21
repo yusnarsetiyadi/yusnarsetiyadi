@@ -70,9 +70,9 @@ Come on, collaborate with me, for the project that I want to develop, the theme 
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
-### 📈&nbsp;My Github Stats
+<!-- ### 📈&nbsp;My Github Stats -->
 
-<a href="https://github.com/yusnarsetiyadi">
+<!-- <a href="https://github.com/yusnarsetiyadi">
 <img src="https://github-stats-alpha.vercel.app/api?username=yusnarsetiyadi&cc=000000&tc=FFFFFF&ic=fff&bc=0000">
 </a>
   
@@ -80,4 +80,4 @@ Come on, collaborate with me, for the project that I want to develop, the theme 
 
 [![YusnarS github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yusnarsetiyadi&theme=high-contrast&custom_title=Yusnar%20Setiyadi's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![Snake animation](https://github.com/yusnarsetiyadi/yusnarsetiyadi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yusnarsetiyadi/yusnarsetiyadi/blob/output/github-contribution-grid-snake.svg) -->
