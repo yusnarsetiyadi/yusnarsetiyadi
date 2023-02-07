@@ -50,7 +50,7 @@ Hi, I'm [Yusnar Setiyadi](https://github.com/yusnarsetiyadi), a Backend Develope
 
 My ambition is to learn all technology in IT field. I really like technology, especially with technology that never stops developing until now. I also enjoy starting a new project, and collaborating to achieve that goal.
 
-Come on, collaborate with me, for the project that I want to develop, the theme is "Education in Indonesia".
+Come collaborate with me, for the project I want to develop, the theme is "Education in Indonesia". [Go to My Overview Repository](https://github.com/yusnarsetiyadi/MyProject-innonFormal.edu)
 
 ## 🛠 **&nbsp;Language and Technology Stack:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
@@ -70,14 +70,11 @@ Come on, collaborate with me, for the project that I want to develop, the theme 
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
-<!-- ### 📈&nbsp;My Github Stats -->
-
-<!-- <a href="https://github.com/yusnarsetiyadi">
-<img src="https://github-stats-alpha.vercel.app/api?username=yusnarsetiyadi&cc=000000&tc=FFFFFF&ic=fff&bc=0000">
-</a>
-  
-<a href="https://github.com/yusnarsetiyadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusnarsetiyadi&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
 [![YusnarS github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yusnarsetiyadi&theme=high-contrast&custom_title=Yusnar%20Setiyadi's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![Snake animation](https://github.com/yusnarsetiyadi/yusnarsetiyadi/blob/output/github-contribution-grid-snake.svg) -->
+<a href="https://github.com/yusnarsetiyadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusnarsetiyadi&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusnarsetiyadi&theme=tokyonight)
+</div>
