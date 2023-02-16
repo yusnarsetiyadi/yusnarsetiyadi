@@ -52,6 +52,8 @@ My ambition is to learn all technology in IT field. I really like technology, es
 
 Come collaborate with me, for the project I want to develop, the theme is "Education in Indonesia". [Go to My Overview Repository](https://github.com/yusnarsetiyadi/MyProject-innonFormal.edu)
 
+About business? Collaborate with me on future projects. [Go to GitLab](https://gitlab.com/yusnarsetiyadi/nars)
+
 ## 🛠 **&nbsp;Language and Technology Stack:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
 
