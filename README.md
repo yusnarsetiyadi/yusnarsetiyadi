@@ -71,12 +71,3 @@ About business? Collaborate with me on future projects. [Go to GitLab](https://g
 ### 💪&nbsp;Things I'm currently challenging myself with:
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
-
-<div align="center">
-
-[![YusnarS github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yusnarsetiyadi&theme=high-contrast&custom_title=Yusnar%20Setiyadi's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<a href="https://github.com/yusnarsetiyadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusnarsetiyadi&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusnarsetiyadi&theme=tokyonight)
-</div>
