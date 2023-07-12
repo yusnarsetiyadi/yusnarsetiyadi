@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/yusnar-setiyadi-82b079252/">
-  <img align="left" alt="YusnarS LinkedIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
+  <img align="left" alt="YusnarS LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />
 </a>
 
 <a href="https://t.me/yusnarstyd">
