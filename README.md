@@ -20,7 +20,7 @@
 
 <p align="left">
 <a href="https://discordapp.com/channels/@me/yusnarstyd#0276/">
-  <img align="left" alt="YusnarS Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="YusnarS Discord" width="22px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />
 </a>
 
 <a href="https://www.instagram.com/yusnars_/">
@@ -28,11 +28,11 @@
 </a>
 
 <a href="https://twitter.com/setiyadi_yusnar">
-  <img align="left" alt="Yusnar Setiyadi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Yusnar Setiyadi | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/yusnar-setiyadi-82b079252/">
-  <img align="left" alt="YusnarS LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="YusnarS LinkedIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
 
 <a href="https://t.me/yusnarstyd">
