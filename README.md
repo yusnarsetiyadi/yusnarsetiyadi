@@ -64,7 +64,7 @@ About business? Collaborate with me on future projects. [Go to GitLab](https://g
 <a href="https://gorm.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/15127678?s=200&v=4" height="30" alt="Gorm.io" /></a>
 <a href="https://aws.amazon.com/id/free/?trk=1c14a165-38db-4a0e-9720-b7f90102cdee&sc_channel=ps&s_kwcid=AL!4422!3!580993131488!e!!g!!aws&ef_id=Cj0KCQiAiJSeBhCCARIsAHnAzT9lpNqQ6prsd7hqrCcqhGVLLxA9WhG84yCFJNM0_Z9hqHziGHEL6wkaAv4YEALw_wcB:G:s&s_kwcid=AL!4422!3!580993131488!e!!g!!aws" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" height="30" alt="aws" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="30" alt="docker" /></a>
-<a href="https://app.diagrams.net" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" height="30" alt="draw.io" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="30" alt="draw.io" /></a>
 <a href="https://app.swaggerhub.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" height="30" alt="swaggerhub" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height="30" alt="Jupyter-Notebook"/></a>
 
