@@ -27,7 +27,7 @@
   <img align="left" alt="YusnarS Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 
-<a href="https://twitter.com/setiyadi_yusnar">
+<a href="https://twitter.com/yusnars_>
   <img align="left" alt="Yusnar Setiyadi | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" />
 </a>
 
