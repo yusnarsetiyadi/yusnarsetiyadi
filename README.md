@@ -63,6 +63,8 @@ About business? Collaborate with me on future projects. [Go to GitLab](https://g
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" height="30" alt="gcp" /></a>
 <a href="https://aws.amazon.com/id/free/?trk=1c14a165-38db-4a0e-9720-b7f90102cdee&sc_channel=ps&s_kwcid=AL!4422!3!580993131488!e!!g!!aws&ef_id=Cj0KCQiAiJSeBhCCARIsAHnAzT9lpNqQ6prsd7hqrCcqhGVLLxA9WhG84yCFJNM0_Z9hqHziGHEL6wkaAv4YEALw_wcB:G:s&s_kwcid=AL!4422!3!580993131488!e!!g!!aws" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" height="30" alt="aws" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="30" alt="docker" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman" /></a>
+
 
 ### 💪&nbsp;Things I'm currently challenging myself with:
 - Code exercises everyday!
