@@ -62,7 +62,6 @@ About business? Collaborate with me on future projects. [Go to GitLab](https://g
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="30" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="30" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/800px-Antu_mongodb.svg.png" height="30" alt="mongodb" /></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" height="30" alt="sqlite" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="30" alt="github" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" height="30" alt="gitlab" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
@@ -75,8 +74,6 @@ About business? Collaborate with me on future projects. [Go to GitLab](https://g
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" height="30" alt="gcp" /></a>
 <a href="https://aws.amazon.com/id/free/?trk=1c14a165-38db-4a0e-9720-b7f90102cdee&sc_channel=ps&s_kwcid=AL!4422!3!580993131488!e!!g!!aws&ef_id=Cj0KCQiAiJSeBhCCARIsAHnAzT9lpNqQ6prsd7hqrCcqhGVLLxA9WhG84yCFJNM0_Z9hqHziGHEL6wkaAv4YEALw_wcB:G:s&s_kwcid=AL!4422!3!580993131488!e!!g!!aws" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" height="30" alt="aws" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="30" alt="docker" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="30" alt="draw.io" /></a>
-<a href="https://app.swaggerhub.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" height="30" alt="swaggerhub" /></a>
 
 ### 💪&nbsp;Things I'm currently challenging myself with:
 - Code exercises everyday!
