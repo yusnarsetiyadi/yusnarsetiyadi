@@ -51,26 +51,14 @@ My ambition is to learn all technology in IT field. I really like technology, es
 About business? Collaborate with me on future projects. [Go to GitLab](https://gitlab.com/yusnarsetiyadi/)
 
 ## 🛠 **&nbsp;Language and Technology Stack:** 
-<i>Tools, languages, and other things that I like to work with.</i> 
+<i>Languages, tools, and other things that I like to work with.</i> 
 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" height="30" alt="Go" /></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" height="30" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" height="30" alt="php" /></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="30" alt="Js" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="30" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="30" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="30" alt="mongodb">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
-<a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="30" alt="netbeans" /></a>
-<a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2624634?s=200&v=4" height="30" alt="Echo Framework" /></a>
-<a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://codeigniter.com/assets/icons/44521256.png" height="30" alt="codeigniter" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" height="30" alt="reactJS" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" height="30" alt="tailwindcss" /></a>
-<a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" height="30" alt="gcp" /></a>
-<a href="https://aws.amazon.com/id/free/?trk=1c14a165-38db-4a0e-9720-b7f90102cdee&sc_channel=ps&s_kwcid=AL!4422!3!580993131488!e!!g!!aws&ef_id=Cj0KCQiAiJSeBhCCARIsAHnAzT9lpNqQ6prsd7hqrCcqhGVLLxA9WhG84yCFJNM0_Z9hqHziGHEL6wkaAv4YEALw_wcB:G:s&s_kwcid=AL!4422!3!580993131488!e!!g!!aws" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo-1280x720.png" height="30" alt="aws" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="30" alt="docker" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman" /></a>
-<a href="https://swagger.io/tools/swaggerhub/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" height="30" alt="swaggerhub" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" height="30" alt="go" /></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" height="30" alt="java" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" height="25" alt="php" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="25" alt="js" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="25" alt="dart" /></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" height="25" alt="sql" /></a>
 
 
 ## 💪&nbsp;Things I'm currently challenging myself with:
